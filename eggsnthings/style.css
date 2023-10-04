@@ -1,0 +1,74 @@
+body{
+  background-image: url(https://eggsnthings.com/wp-content/uploads/2021/04/eggsnthings.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.top-btn {
+  font-size: 120%;
+  font-family: 'Eczar', sans-serif;
+  font-weight: bold;
+  font-stretch: 130%;
+  background-color: transparent;
+  border: solid 3px #fff;
+  color: #fff;
+  padding: 2px 5px 2px 5px;
+}
+.bi-list {
+  font-size: 1rem; /* Set the desired font size */
+}
+.home .button_container span {
+  background-color: #fff;
+}
+
+.bi-list {
+  font-size: 25px;
+  color: white;
+}
+
+.newsletter-container {
+  background-color: white;
+  padding: 20px;
+  display: flex;
+}
+
+.btn-submit {
+  background-color: transparent;
+  border: solid 2px #42281a;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  font-weight: 700;
+  color: #42281a;
+
+}
+
+/* Brown underline for input field */
+.form-control {
+  border: none;
+  border-bottom: 3px solid #42281a;
+  border-radius: 0;
+  padding: 10px 0;
+  background-color: transparent;
+}
+
+footer {
+  background-color: #f9ee32;
+  width: 100%;
+  padding: 20px 0;
+}
+
+.menu-footer{
+  color: #363636;
+  text-decoration: none;
+  font-size: 1.5em;
+  font-weight: 500;
+}
+
+.menu-footer2{
+  color: #363636;
+  text-decoration: none;
+  font-size: 1.0em;
+  font-weight: 500;
+}
